@@ -8,7 +8,7 @@ This part is for tracking only
 
 PART 1
 
-https://github.com/JoKhalil/DamageCalculator_FirstEntry
-https://github.com/JoKhalil/DamageCalculator
-https://github.com/JoKhalil/PokemonCalculator
-https://github.com/JoKhalil/DamageCalculator-V2
+1: https://github.com/JoKhalil/DamageCalculator_FirstEntry
+2: https://github.com/JoKhalil/DamageCalculator
+3: https://github.com/JoKhalil/PokemonCalculator
+4: https://github.com/JoKhalil/DamageCalculator-V2
